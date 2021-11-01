@@ -1232,6 +1232,12 @@
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
       "extensions": ["tcl"]
     },
+    "Teko": {
+      "line_comment": ["//"],
+      "multi_line_comments": [["/*", "*/"]],
+      "quotes": [["\\\"", "\\\""]],
+      "extensions": ["to", "teko"]
+    },
     "Tera": {
       "multi_line_comments": [["<!--", "-->"], ["{#", "#}"]],
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
